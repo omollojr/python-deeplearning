@@ -30,7 +30,7 @@ I gratefully acknowledge **[WorldQuant University](https://www.wqu.edu/)**
 for providing this **free, high-quality AI education** and the  
 **Applied AI Lab** platform supporting these exercises.
 
-> Disclaimer: This repository contains my personal learning projects based on  
+> Disclaimer: This repository contains learning projects based on  
 > materials provided by WorldQuant University.  
 > All content is for educational purposes only and is **not officially endorsed** by WQU.
 
